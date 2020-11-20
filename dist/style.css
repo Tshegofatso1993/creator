@@ -1,0 +1,29 @@
+body{
+  text-align:center;
+  background-color:gray;
+  
+    }
+h1{
+  font-family:Arial Black;
+  font-size:70px;
+  background-color:white;
+}
+h2{
+  font-family:Arial Blac;
+  color:red;
+}
+#image{
+  width:300px;
+  max-with:100%;
+  hight:auto;
+ 
+}  
+p{
+  font-size:20px;
+  font-family:Times;
+  
+}
+#tribute-link{
+  font-size:20px;
+  color:blue;
+}
